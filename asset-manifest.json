@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.db945e27.chunk.css",
-    "main.js": "/Portfolio/static/js/main.029c52aa.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.029c52aa.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.7143e5d2.chunk.css",
+    "main.js": "/Portfolio/static/js/main.e3aeb4d3.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e3aeb4d3.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.f727a26d.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.f727a26d.js.map",
     "static/js/2.7028f8f1.chunk.js": "/Portfolio/static/js/2.7028f8f1.chunk.js",
     "static/js/2.7028f8f1.chunk.js.map": "/Portfolio/static/js/2.7028f8f1.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.e8b5639d6232733c5a59adc0528fd25b.js": "/Portfolio/precache-manifest.e8b5639d6232733c5a59adc0528fd25b.js",
+    "precache-manifest.2a5263ec2db87010bd895036713ae73a.js": "/Portfolio/precache-manifest.2a5263ec2db87010bd895036713ae73a.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.db945e27.chunk.css.map": "/Portfolio/static/css/main.db945e27.chunk.css.map",
+    "static/css/main.7143e5d2.chunk.css.map": "/Portfolio/static/css/main.7143e5d2.chunk.css.map",
     "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Architecture.png": "/Portfolio/static/media/Architecture.31573c69.png",
     "static/media/Arduino.png": "/Portfolio/static/media/Arduino.ca268825.png",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.f727a26d.js",
     "static/js/2.7028f8f1.chunk.js",
-    "static/css/main.db945e27.chunk.css",
-    "static/js/main.029c52aa.chunk.js"
+    "static/css/main.7143e5d2.chunk.css",
+    "static/js/main.e3aeb4d3.chunk.js"
   ]
 }
