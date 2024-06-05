@@ -1,0 +1,76 @@
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.experience-image-container {
+  grid-column: 2;
+  grid-row: 1 / 3;
+}
+
+.experience-card-structure {
+  width: 95%;
+}
+
+.experience-image-arduino {
+  width: 70%;
+}
+
+.experience-image-mobile {
+  width: 20%;
+}
+
+.experience-image-optimisation {
+  width: 40%;
+}
+
+.experience-image-opti {
+  width: 60%;
+}
+
+.experience-image-git {
+  width: 100%;
+}
+
+.experience-image-trello {
+  width: 90%;
+}
+
+.pdf-viewer {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pdf-viewer canvas {
+  border-radius: 5px;
+}
+
+.experience-last-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.experience-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .experience-grid {
+    grid-template-columns: 1fr;
+  }
+  .experience-image-container {
+    grid-column: 1;
+    grid-row: 3;
+  }
+}

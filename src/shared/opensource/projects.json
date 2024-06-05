@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "SAE 2.04, 2.03",
+      "createdAt": "2022",
+      "url": "/SAE2_04",
+      "description": "Cette SAE avait pour but la création d'un site d'e-commerce de vente de meubles en ligne de plus une présentation en anglais de nos actions et de l'utilisation du site a été faite en anglais lors d'un oral.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ],
+      "target": "_self"
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "SAE R2.05",
+      "createdAt": "2022",
+      "url": "/SAE2_05",
+      "description": "Cette SAE avait pour but la création d'un compte rendue économique, un calcul d'évaluation des ressources, un Gantt / pert avec un rapport en français concernant notre site d'e-commerce fait précédemment et un rapport en anglais sur l'économie du projet.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "SAE S2.126",
+      "createdAt": "2022",
+      "url": "/SAE2_126",
+      "description": "Cette SAE avait pour but la création d'un mini-jeux avec un groupe de 6 personnes, nous avons choisi le Kamisado. Un rapport sur la comparaison des performances des 2 ia a été demandé et enfin un rapport regroupant une question économique (Quelles types d’actions judiciaires peuvent être envisagées à l’encontre d’un contrefacteur d’un jeu et devant quel tribunal de juridiction ?) et un résumé de la SAE avec nos ressentis personnels, les difficultés rencontrées ... Enfin une soutenance en fin d'année s'est tenu pour faire un résumé de cette SAE.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "SAE Lion Esport",
+      "createdAt": "2023",
+      "url": "/SAE_Esport",
+      "description": "Création d'un site web consacré à la création d'un évenement de Lion Esport.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Stage Isara Technologies",
+      "createdAt": "2023-03",
+      "url": "/Stage",
+      "description": "Automatisation d'une tâche de saisie répétitive réalisée par les SDIS en un programme informatique automatisé.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kotlin",
+          "iconifyClass": "logos-kotlin"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "3 ème année",
+      "createdAt": "2023-2024",
+      "url": "/TroisAnnee",
+      "description": "Résume les compétences que j'ai développées durant ma troisième année, notamment grâce à ma SAE et mon stage.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
