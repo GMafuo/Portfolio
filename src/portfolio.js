@@ -43,7 +43,7 @@ const skills = {
       title: "Développeur informatique",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Étudiant en informatique 3ème année de BUT (Bachelor universitaire de technologie).",
+        "⚡ Étudiant en informatique 1ère année de cycle ingénieur à l'UTBM.",
         "⚡ Développeur informatique polyvalent maîtrisant les aspects front-end et back-end.",
       ],
       softwareSkills: [
@@ -169,6 +169,18 @@ const experience = {
           location: "Vesoul, France",
           description:
             "Création d'une application mobile intégrant l'intelligence artificielle pour simuler une conversation fluide et réaliste avec une personne ordinaire, dans le but d'apprendre une nouvelle langue.",
+          color: "#0879bf",
+        },
+        {
+          title:
+            "Stagiaire développeur pour le développement d'une GED (Gestion Electronique de Documents)",
+          company: "UTBM",
+          company_url: "https://www.utbm.fr",
+          logo_path: "logo_utbm_seul.png",
+          duration: "Juillet 2024 - Août 2024",
+          location: "Belfort, France",
+          description:
+            "Développement d'une application web permettant la gestion de documents pour le service juridiques de l'UTBM.",
           color: "#0879bf",
         },
       ],

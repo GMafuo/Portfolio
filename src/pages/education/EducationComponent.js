@@ -24,7 +24,7 @@ class Education extends Component {
                   Education
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Poursuite d'étude en BAC +5
+                  En cours BAC +5 (cycle ingénieur) 🚀
                 </h3>
               </div>
             </div>
