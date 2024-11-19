@@ -127,7 +127,7 @@ class Experience extends Component {
 
             <Fade bottom duration={1000} distance="40px">
               <div className="experience-card">
-                <h2 style={{ color: theme.text }}>Compétence apporté</h2>
+                <h2 style={{ color: theme.text }}>Compétences apportées</h2>
                 <p style={{ color: theme.secondaryText }}>
                   Tout d'abord, la compétence 1 (réaliser un développement
                   d'application) et la compétence 4 (gérer des données de
@@ -169,7 +169,7 @@ class Experience extends Component {
                 <p style={{ color: theme.secondaryText }}>
                   Pour poursuivre la validation de ses compétences la création
                   d'un autre mini-jeux en groupe va permettre se recrée la
-                  situation dans laquelle nous étions et ainsi rappelés les
+                  situation dans laquelle nous étions et ainsi rappeler les
                   mêmes compétences afin de continuer à les améliorer.
                 </p>
               </div>

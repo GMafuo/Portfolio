@@ -72,7 +72,7 @@ class Experience extends Component {
           <div className="experience-last-grid">
             <Fade bottom duration={1000} distance="40px">
               <div className="experience-card">
-                <h2 style={{ color: theme.text }}>Compétence apporté</h2>
+                <h2 style={{ color: theme.text }}>Compétences apportées</h2>
                 <p style={{ color: theme.secondaryText }}>
                   Cette SAE nous a finalement permis de récupérer la compétence
                   1,2, 6 concernant essentiellement la réalisation du
@@ -81,7 +81,7 @@ class Experience extends Component {
                   informatique.
                 </p>
                 <p style={{ color: theme.secondaryText }}>
-                  La mise en pratique de ses compétences m'a permis de me rendre
+                  La mise en pratique de ces compétences m'a permis de me rendre
                   compte de mes faiblesses et points forts dans le développement
                   d'applications mais d'aussi m'entrainer à m'entendre avec mon
                   groupe même dans les moments de rush afin de rester clair et
@@ -117,7 +117,7 @@ class Experience extends Component {
                 <p style={{ color: theme.secondaryText }}>
                   Pour poursuivre la validation de ses compétences la création
                   d'un autre mini-jeux en groupe va permettre se recrée la
-                  situation dans laquelle nous étions et ainsi rappelés les
+                  situation dans laquelle nous étions et ainsi rappeler les
                   mêmes compétences afin de continuer à les améliorer.
                 </p>
               </div>

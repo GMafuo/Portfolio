@@ -30,7 +30,7 @@ class Experience extends Component {
                 <p style={{ color: theme.secondaryText }}>
                   Pour cette SAE je me suis occupé de la partie commentaire du
                   côté administrateur et client ainsi tout ce qui va concerner
-                  les notes mit sur un meuble ainsi que la note moyenne sur
+                  les notes mises sur un meuble ainsi que la note moyenne sur
                   chaque meuble. Chaque commentaire ne peut être posté que si un
                   meuble est commandé et du côté admin des graphiques ainsi que
                   la visualisation des commentaires est possible
@@ -73,7 +73,7 @@ class Experience extends Component {
           <div className="experience-last-grid">
             <Fade bottom duration={1000} distance="40px">
               <div className="experience-card">
-                <h2 style={{ color: theme.text }}>Compétence apporté</h2>
+                <h2 style={{ color: theme.text }}>Compétences apportées</h2>
                 <p style={{ color: theme.secondaryText }}>
                   Cette SAE nous a finalement permis de récupérer la compétence
                   2.04 et 2.03 concernant essentiellement la conception et

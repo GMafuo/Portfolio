@@ -43,7 +43,7 @@ const skills = {
       title: "Développeur informatique",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Étudiant en informatique 1ère année de cycle ingénieur à l'UTBM.",
+        "⚡ Étudiant en informatique en 1ère année de cycle ingénieur à l'UTBM.",
         "⚡ Développeur informatique polyvalent maîtrisant les aspects front-end et back-end.",
       ],
       softwareSkills: [
@@ -114,8 +114,8 @@ const degrees = {
       alt_name: "Lycée Marceau Chartres",
       duration: "2018 - 2021",
       descriptions: [
-        "⚡ J'ai approfondi mes compétences en mathématiques et en NSI, me préparant ainsi aux exigences des classes supérieurs.",
-        "⚡Intérêt croissant pour l'informatique, participation à des ateliers de programmation.",
+        "⚡ J'ai approfondi mes compétences en mathématiques et en NSI, me préparant ainsi aux exigences des classes supérieures.",
+        "⚡ Intérêt croissant pour l'informatique, participation à des ateliers de programmation.",
       ],
       website_link: "http://lyc-marceau-chartres.tice.ac-orleans-tours.fr/eva/",
     },
@@ -126,9 +126,9 @@ const degrees = {
       alt_name: "IUT Belfort",
       duration: "2021 - 2024",
       descriptions: [
-        "⚡ Formation approfondie en développement informatiques",
+        "⚡ Formation approfondie en développement informatique.",
         "⚡ Projets pratiques en équipe, renforçant mes compétences en gestion de projet.",
-        "⚡ Nombreux stage permettant une imersion réelle dans le monde professionnel",
+        "⚡ Nombreux stages permettant une immersion réelle dans le monde professionnel.",
       ],
       website_link: "https://www.iut-nfc.univ-fcomte.fr",
     },
@@ -173,14 +173,14 @@ const experience = {
         },
         {
           title:
-            "Stagiaire développeur pour le développement d'une GED (Gestion Electronique de Documents)",
+            "Stagiaire développeur pour le développement d'une GED (Gestion Électronique de Documents)",
           company: "UTBM",
           company_url: "https://www.utbm.fr",
           logo_path: "logo_utbm_seul.png",
           duration: "Juillet 2024 - Août 2024",
           location: "Belfort, France",
           description:
-            "Développement d'une application web permettant la gestion de documents pour le service juridiques de l'UTBM.",
+            "Développement d'une application web permettant la gestion de documents pour le service juridique de l'UTBM.",
           color: "#0879bf",
         },
       ],
@@ -192,7 +192,7 @@ const experience = {
 const projectsHeader = {
   title: "Projets",
   description:
-    "Mes projets académiques présents ci-dessous traitent de plusieurs domaines informatiques. Ils incluent divers projets de groupe que j'ai réalisés, qui m'ont permis d'augmenter mes compétences informatiques tout au long de ces années.",
+    "Mes projets académiques présentés ci-dessous traitent de plusieurs domaines informatiques. Ils incluent divers projets de groupe que j'ai réalisés, qui m'ont permis de développer mes compétences informatiques tout au long de ces années.",
   avatar_image_path: "projects_image.svg",
 };
 

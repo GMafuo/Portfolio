@@ -16,7 +16,7 @@ class Experience extends Component {
             <div className="experience-card">
               <h2 style={{ color: theme.text }}>Description de la SAE</h2>
               <p style={{ color: theme.secondaryText }}>
-                Cette SAE avait pour but la création d'un compte rendue
+                Cette SAE avait pour but la création d'un compte rendu
                 économique, un calcul d'évaluation des ressources, un Gantt /
                 pert avec un rapport en français concernant notre site
                 d'e-commerce fait précédemment et un rapport en anglais sur
@@ -45,7 +45,7 @@ class Experience extends Component {
                 <ul style={{ color: theme.secondaryText }}>
                   <li>
                     Se pencher plus sur le calendrier donné afin de ne pas être
-                    prit de court
+                    pris de court
                   </li>
                   <li>
                     étendre le sujet afin de toucher pas une petite commune mais
@@ -60,7 +60,7 @@ class Experience extends Component {
           <div className="experience-grid">
             <Fade bottom duration={1000} distance="40px">
               <div className="experience-card">
-                <h2 style={{ color: theme.text }}>Compétence apporté</h2>
+                <h2 style={{ color: theme.text }}>Compétences apportées</h2>
                 <p style={{ color: theme.secondaryText }}>
                   Cette SAE nous a finalement permis de récupérer la compétence
                   1.4 concernant essentiellement la conception et

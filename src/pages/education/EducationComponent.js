@@ -21,10 +21,10 @@ class Education extends Component {
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  Education
+                  Éducation
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  En cours BAC +5 (cycle ingénieur) 🚀
+                  Première année du cycle ingénieur à l'UTBM 🎓
                 </h3>
               </div>
             </div>

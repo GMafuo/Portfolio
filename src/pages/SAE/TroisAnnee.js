@@ -55,12 +55,12 @@ class Experience extends Component {
                       🔬 Notre sujet de SAE se concentre sur une application
                       destinée à être utilisée dans des expériences
                       scientifiques. Les chercheurs effectueront une série de
-                      tests de réflexe sur des volontaires. L'application
+                      tests de réflexes sur des volontaires. L'application
                       analysera ensuite les résultats de ces tests à l'aide de
                       graphiques, permettant de mesurer le temps de réaction des
                       participants dans différentes situations. L'objectif des
-                      scientifiques est de déterminer les facteurs qui influent
-                      sur le temps de réaction et l'exécution des tâches. Ces
+                      scientifiques est de déterminer les facteurs qui influencent
+                      le temps de réaction et l'exécution des tâches. Ces
                       résultats pourront être utilisés dans les entraînements
                       des pilotes de Formule 1 pour améliorer leurs réflexes, ou
                       encore dans le domaine de la sécurité routière pour
@@ -75,7 +75,7 @@ class Experience extends Component {
                       développement d'un front-end en Vue.js. <br /> <br /> 💡
                       En résumé, notre objectif est de développer une
                       application structurée et modulaire pour analyser les
-                      résultats de tests de réflexe dans le cadre d'expériences
+                      résultats de tests de réflexes dans le cadre d'expériences
                       scientifiques, en respectant des contraintes précises
                       liées à l'architecture logicielle et aux technologies à
                       utiliser.{" "}
